@@ -7,25 +7,31 @@ body {
 }
 
 body .fc {
-    font-size: 1.2em;
+    font-size: 1.2em; 
 }
+
 .fc-view {
     background-color: #EEEEEE;
 }
 
-button.fc-dayGridMonth-button.fc-button.fc-button-primary,button.fc-timeGridWeek-button.fc-button.fc-button-primary,button.fc-timeGridDay-button.fc-button.fc-button-primary {
+button.fc-dayGridMonth-button.fc-button.fc-button-primary,
+button.fc-timeGridWeek-button.fc-button.fc-button-primary,
+button.fc-timeGridDay-button.fc-button.fc-button-primary {
     background-color: rgb(30, 157, 241) !important;
     border-color: black;
     border-radius: 20%;
 }
 
-button.fc-prev-button.fc-button.fc-button-primary, button.fc-next-button.fc-button.fc-button-primary,button.fc-today-button.fc-button.fc-button-primary {
+button.fc-prev-button.fc-button.fc-button-primary,
+button.fc-next-button.fc-button.fc-button-primary,
+button.fc-today-button.fc-button.fc-button-primary {
     background-color: rgb(30, 157, 241) !important;
     border-color: black;
     border-radius: 20%;
 }
+
 .fc-day-today {
     background: rgb(188, 196, 123) !important;
     border: none !important;
-  
-} 
+
+}
